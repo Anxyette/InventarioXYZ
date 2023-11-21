@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "893770056643",
+    "firebase_url": "https://prueba-final-7ebc4-default-rtdb.firebaseio.com",
+    "project_id": "prueba-final-7ebc4",
+    "storage_bucket": "prueba-final-7ebc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893770056643:android:c6ffdf4146157555c83376",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8npoBmxnzmKQh1fCQL5JtwTwuE5ETVvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
